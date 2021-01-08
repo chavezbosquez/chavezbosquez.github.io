@@ -29,7 +29,8 @@ url: "http://chavezbosquez.github.io" # the base hostname & protocol for your si
 github_username:  chavezbosquez
 
 # Build settings
-theme: minima
+#OCB: al copiar los directorios _includes, _layouts, _sass y assets el sitio se vuelve un tema regular
+#theme: minima
 plugins:
   - jekyll-feed
 

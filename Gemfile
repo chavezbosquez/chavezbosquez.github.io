@@ -10,7 +10,8 @@ source "https://rubygems.org"
 #OCB: comentado para usar GitHub
 #gem "jekyll", "~> 4.2.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+#OCB: al copiar los directorios _includes, _layouts, _sass y assets el sitio se vuelve un tema regular
+#gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 #OCB: descomentado  para usar GitHub
