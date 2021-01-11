@@ -1,3 +1,3 @@
 # chavezbosquez.github.io
 
-Mi sitio web personal. Incluye mi blog "Deep Learning en tu idioma".
+Mi sitio web personal. Incluye el blog "Deep Learning en tu idioma".
