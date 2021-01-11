@@ -86,6 +86,18 @@ disponible.
 
 ### 3. Conclusión
 
+**Importante**: En el archivo **.gitignore** es necesario comentar/quitar la línea:
+
+~~~bash
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.gitignore
+#vendor
+~~~
+
+porque casualmente el directorio `vendor` contiene archivos de Bootstrap, y recordad que **.gitignore** evita que sincronicemos con GitHub los archivos o directorios que en el se enlistan.
 
 ### Referencias
 
