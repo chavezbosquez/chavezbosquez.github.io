@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Añadiendo Bootstrap 5 a nuestro sitio"
-date:   2021-01-04 19:00:00 -0600
+date:   2021-01-10 19:00:00 -0600
 categories: jekyll bootstrap
 ---
 
