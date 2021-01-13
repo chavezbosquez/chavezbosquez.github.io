@@ -99,6 +99,16 @@ _site
 
 porque casualmente el directorio `vendor` contiene archivos de Bootstrap, y recordad que **.gitignore** evita que sincronicemos con GitHub los archivos o directorios que en el se enlistan.
 
+¿Cómo descrubrí esto? Pues al momento de hacer _push_ de mi repositorio local a GitHub me llegó un correo con el siguiente mensaje:
+
+<small>
+The page build failed for the `master` branch with the following error:
+
+Your SCSS file `assets/main.scss` has an error on line 6: File to import not found or unreadable: vendor/rfs. Load paths: _sass /hoosegow/.bundle/ruby/2.7.0/gems/jekyll-theme-primer-0.5.4/_sass /hoosegow/.bundle/ruby/2.7.0/gems/jekyll-theme-primer-0.5.4/_sass /hoosegow/.bundle/ruby/2.7.0/gems/jekyll-theme-primer-0.5.4/_sass. For more information, see https://docs.github.com/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#invalid-sass-or-scss.
+</small>
+
+Entonces supuse que algún archivo de mi sitio local no se había cargado en el servidor, y explorando a detalle el correo podemos ver que menciona un archivo **vendor/rfs**.
+
 ### Referencias
 
 Cabe mencionar que no hay mucha información al respecto, ¡y menos en español!. De cualquier
