@@ -1,0 +1,8 @@
+mark {
+    padding: $mark-padding;
+    background-color: $mark-bg;
+
+    &.archivo {
+        font-family: monospace;
+    }
+}
