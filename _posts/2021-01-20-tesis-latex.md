@@ -2,7 +2,7 @@
 layout: post
 title:  "Plantilla para tesis en LaTeX"
 date:   2021-01-20 22:29:00 -0600
-categories: latex formato plantilla
+categories: latex
 ---
 
 
