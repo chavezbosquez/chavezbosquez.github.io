@@ -162,6 +162,9 @@ de la siguiente manera:
 Si te das cuenta, el comando `\include{}` inserta el archivo en cuestión (sin la 
 extensión .tex), lo que permite tener mejor organizado nuestro documento.
 
+Si quieres cambiar el nombre de alguno de los archivos, ¡no olvides cambiar el nombre
+dentro de su respectivo `\include{}`!
+
 ## 4. Referencias
 
 Las referencias las incluimos de la manera clásica:
