@@ -162,7 +162,7 @@ de la siguiente manera:
 Si te das cuenta, el comando `\include{}` inserta el archivo en cuestión (sin la 
 extensión .tex), lo que permite tener mejor organizado nuestro documento.
 
-## Referencias
+## 4. Referencias
 
 Las referencias las incluimos de la manera clásica:
 
@@ -174,7 +174,7 @@ Las referencias las incluimos de la manera clásica:
 
 Y para ello tenemos el archivo <mark class="archivo">Tesis.bib</mark>.
 
-## Anexos
+## 5. Anexos
 
 Es posible agregar anexos, apéndices, u otros archivos de la misma manera
 que los capítulos mencionados:
@@ -186,3 +186,20 @@ que los capítulos mencionados:
 Agregar esta línea justo después de la sección de Referencias. Obviamente debes
 crear el archivo <mark class="archivo">Anexos.tex</mark> con la información
 correspondiente.
+
+## 6. Fin
+
+Para facilitar la compilación de tu documento, revisa las opciones de tu editor
+de LaTeX favorito acerca de cómo crear un **Proyecto LaTeX**. Esto te servirá
+para integrar todos los archivos en un mismo proyecto y así trabajar en un arhivo,
+digamos <mark class="archivo">Resumen.tex</mark> y poder compilar toda la tesis sin
+tener que abrir el archivo <mark class="archivo">Tesis.tex</mark>.
+
+Sé que suena confuso, pero ya que comiences a trabajar en tu documento te darás
+cuenta de que si tratas de compilar el archivo <mark class="archivo">Resumen.tex</mark>
+¡te saldrá un error por parte del editor porque ese archivo no tiene preámbulo!
+Tu editor favorito no lo reconocerá como archivo LaTeX y no lo podrá compilar.
+
+El archivo <mark class="archivo">Tesis.tex</mark> sí que tiene preámbulo, así que este
+compilará sin problemas (a menos que tengas un error en tu código claro está). De
+todos modos si tienes alguna bronca no dudes en contactarme.
