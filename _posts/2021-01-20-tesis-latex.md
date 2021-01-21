@@ -162,3 +162,27 @@ de la siguiente manera:
 Si te das cuenta, el comando `\include{}` inserta el archivo en cuestión (sin la 
 extensión .tex), lo que permite tener mejor organizado nuestro documento.
 
+## Referencias
+
+Las referencias las incluimos de la manera clásica:
+
+~~~latex
+\bibliographystyle{plain}
+% Nombre del archivo de referencias (colocar sin extensión .bib)
+\bibliography{Tesis}
+~~~
+
+Y para ello tenemos el archivo <mark class="archivo">Tesis.bib</mark>.
+
+## Anexos
+
+Es posible agregar anexos, apéndices, u otros archivos de la misma manera
+que los capítulos mencionados:
+
+~~~latex
+\include{Anexos}
+~~~
+
+Agregar esta línea justo después de la sección de Referencias. Obviamente debes
+crear el archivo <mark class="archivo">Anexos.tex</mark> con la información
+correspondiente.
