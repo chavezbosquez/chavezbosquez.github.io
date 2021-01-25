@@ -34,7 +34,7 @@ Otros paquetes que en un momento dado podrían ser opcionales son:
 ## 2. Portada
 
 La portada de la tesis es un PDF que se crea con otro documento LaTeX. ¿Porqué necesitamos
-otro archivo .tex para algo tan simple? ¡No me lo pregunten porque yo no lo hice!
+otro archivo .tex para algo tan simple? ¡Porque no es tan simple!
 
 El punto es que la instrucción:
 
@@ -191,6 +191,9 @@ crear el archivo <mark class="archivo">Anexos.tex</mark> con la información
 correspondiente.
 
 ## 6. Fin
+
+Recuerda agregar la parte de Justificación que te pidió Torruco, aunque no aparezca
+en la plantilla. Creemos que es importante para el CONACYT.
 
 Para facilitar la compilación de tu documento, revisa las opciones de tu editor
 de LaTeX favorito acerca de cómo crear un **Proyecto LaTeX**. Esto te servirá
