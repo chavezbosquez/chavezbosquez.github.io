@@ -5,6 +5,9 @@ date:   2021-01-20 22:29:00 -0600
 categories: latex
 ---
 
+> Este minitutorial te ayudará a utilizar la plantilla de tesis en formato LaTeX
+que utilizamos tanto para la Maestría en Ciencias de la Computación como para el
+Doctorado
 
 El archivo <mark class="archivo">Tesis.tex</mark> es el más importante, pues "incluye"
 los archivos .tex adiciones de cada capítulo (como veremos más adelante).
