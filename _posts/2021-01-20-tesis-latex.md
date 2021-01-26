@@ -121,7 +121,7 @@ colocar la información de tu protocolo, como el Planteamiento del problema,
 los Objetivos, Etcétera.
 
 * <mark class="archivo">Cap2-Marcos.tex</mark>: Incluye el marco teórico,
-marco conceptual, marco tecnilógico.
+marco conceptual, marco tecnológico.
 
 * <mark class="archivo">Cap3-Modelo.tex</mark>: Ahora sí viene lo bueno. En
 este capítulo viene tu propuesta de tesis, por lo que título será diferente
@@ -137,10 +137,10 @@ ya que debes describir tus experimentos aquí. También puede cambiar de nombre
 si así lo consideras (pregunta a tu director de tesis).
 
 * <mark class="archivo">Cap6-Conclusiones.tex</mark>: Otro capítulo obligatorio
-que no necesita explicación. 
+que no necesito explicarte.
 
 Ahora bien, lo interesante de este embrollo es que cada uno de los archivos mencionados
-se "insertan" dentro del archivo principal (o sea <mark class="archivo">Tesis.tex</mark>)
+se "insertan" dentro del archivo principal (o sea dentro de <mark class="archivo">Tesis.tex</mark>)
 de la siguiente manera:
 
 ~~~latex
@@ -165,8 +165,12 @@ de la siguiente manera:
 Si te das cuenta, el comando `\include{}` inserta el archivo en cuestión (sin la 
 extensión .tex), lo que permite tener mejor organizado nuestro documento.
 
-Si quieres cambiar el nombre de alguno de los archivos, ¡no olvides cambiar el nombre
+Puntos importantes:
+
+- Si quieres cambiar el nombre de alguno de los archivos, ¡no olvides cambiar el nombre
 dentro de su respectivo `\include{}`!
+- En el caso de Güindows no importan las mayúsculas/minúsculas en los nombres de archivo,
+¡pero en plataformas Linux/Unix sí!
 
 ## 4. Referencias
 
