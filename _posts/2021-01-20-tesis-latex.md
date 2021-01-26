@@ -10,14 +10,14 @@ que utilizamos tanto para la Maestría en Ciencias de la Computación como para 
 Doctorado
 
 El archivo <mark class="archivo">Tesis.tex</mark> es el más importante, pues "incluye"
-los archivos .tex adiciones de cada capítulo (como veremos más adelante).
+los archivos .tex adicionales de cada capítulo (como veremos más adelante).
 
 Pero vamos a describir cada sección del archivo principal para entender su funcionamiento.
 
 ## 1. El preámbulo
 
-En general todos los paquetes que importamos en nuestro archivo son
-esenciales, exepto:
+En general, todos los paquetes que importamos en nuestro archivo son
+esenciales exepto:
 
 ~~~latex
 % Números de línea para facilitar la revisión
@@ -37,7 +37,7 @@ Otros paquetes que en un momento dado podrían ser opcionales son:
 ## 2. Portada
 
 La portada de la tesis es un PDF que se crea con otro documento LaTeX. ¿Porqué necesitamos
-otro archivo .tex para algo tan simple? ¡Porque no es tan simple!
+otro archivo .tex para algo tan simple? ¡Porque requiere mucho detalle de tu parte!
 
 El punto es que la instrucción:
 
@@ -67,7 +67,7 @@ y cambiar los datos relevantes de nuestra tesis:
 % Secretario
 \newcommand{\PjuryB}{Dra. Alejandra Anlehu Tello}
 % Vocal
-\newcommand{\PjuryC}{Dra. María del Pilar Pozos Parra}
+\newcommand{\PjuryC}{Dra. Jerusa Marchi}
 % Agregar más revisores en caso de ser necesario
 % \newcommand{\PjuryD}{}
 
@@ -78,8 +78,8 @@ y cambiar los datos relevantes de nuestra tesis:
 \newcommand{\PlineaGAC}{Representación y Manejo del Conocimiento}
 
 % Fecha
-\newcommand{\Pmonth}{Junio}
-\newcommand{\Pyear}{2019}
+\newcommand{\Pmonth}{Marzo}
+\newcommand{\Pyear}{2016}
 ~~~
 
 Nota algo importante: 
@@ -98,7 +98,7 @@ En este caso tendrás que buscar esta línea y modificarla acorde:
 {Directora\par}
 ~~~
 
-Finalmente, si agregaste vocales (revisores de tesis) entonces deberás agregarlos
+Finalmente, si agregaste más vocales (revisores de tesis) entonces deberás incluirlos
 en la sección correspondiente:
 
 ~~~latex
