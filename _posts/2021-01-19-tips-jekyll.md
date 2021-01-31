@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips & tricks de Jekyll"
 date:   2021-01-19 23:00:00 -0600
-categories: jekyll tips
+categories: jekyll
 ---
 
 > En esta ocasión vamos a aprender unos trucos de Jekyll que nos van a ser muy 
@@ -18,7 +18,6 @@ Para ello utilizamos Liquid, el lenguaje de Jekyll, que combinado con Markdown
 nos da la siguiente estructura:
 
 <pre>
-
 </pre>
 
 ~~~liquid
