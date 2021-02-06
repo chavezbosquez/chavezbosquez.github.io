@@ -20,4 +20,4 @@ Cursos y talleres recibidos:
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
-| [Casa de Lletres](https://www.casadelletres.eu) | ¿Cómo escribir en inglés un artículo científico? | Julio 2019 |
+| [Casa de Lletres](https://www.casadelletres.eu/redaccion_cientifica) | ¿Cómo escribir en inglés un artículo científico? | Julio 2019 |
