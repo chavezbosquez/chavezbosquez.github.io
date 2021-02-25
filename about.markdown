@@ -3,7 +3,7 @@ layout: page
 title: Acerca de
 permalink: /about/
 ---
-<!--
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
@@ -14,10 +14,12 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
--->
 
+
+<!--
 Cursos y talleres recibidos:
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
 | [Casa de Lletres](https://www.casadelletres.eu/redaccion_cientifica) | ¿Cómo escribir en inglés un artículo científico? | Julio 2019 |
+-->
