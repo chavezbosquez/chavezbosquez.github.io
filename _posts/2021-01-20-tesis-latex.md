@@ -9,9 +9,9 @@ categories: latex
 que utilizamos tanto para la Maestría en Ciencias de la Computación como para el
 Doctorado.
 
-<div class="alert alert-info" role="alert">
+<div class="alert alert-primary" role="alert">
   <strong>Descarga:</strong>
-  [plantilla_tesis.zip]({{ site.baseurl }}{% link /assets/files/plantilla_tesis.zip %})
+  [plantilla_tesis.zip]({% link /assets/files/plantilla_tesis.zip %})
 </div>
 
 El archivo <mark class="archivo">Tesis.tex</mark> es el más importante, pues "incluye"
