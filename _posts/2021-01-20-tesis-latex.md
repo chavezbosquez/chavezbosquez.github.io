@@ -7,7 +7,7 @@ categories: latex
 
 > Este minitutorial te ayudará a utilizar la plantilla de tesis en formato LaTeX
 que utilizamos tanto para la Maestría en Ciencias de la Computación como para el
-Doctorado
+Doctorado.
 
 El archivo <mark class="archivo">Tesis.tex</mark> es el más importante, pues "incluye"
 los archivos .tex adicionales de cada capítulo (como veremos más adelante).
@@ -17,7 +17,7 @@ Pero vamos a describir cada sección del archivo principal para entender su func
 ## 1. El preámbulo
 
 En general, todos los paquetes que importamos en nuestro archivo son
-esenciales exepto:
+esenciales excepto:
 
 ~~~latex
 % Números de línea para facilitar la revisión
