@@ -5,15 +5,12 @@ date:   2021-01-20 22:29:00 -0600
 categories: latex
 ---
 
-> Este minitutorial te ayudará a utilizar la plantilla de tesis en formato LaTeX
-que utilizamos tanto para la Maestría en Ciencias de la Computación como para el
-Doctorado.
+# Este minitutorial te ayudará a utilizar la plantilla de tesis en formato LaTeX que utilizamos tanto para la Maestría en Ciencias de la Computación como para el Doctorado.
 
-<div class="alert alert-primary" role="alert">
-  <strong>Descarga:</strong>
-  [plantilla_tesis.zip]({% link /assets/files/plantilla_tesis.zip %})
-</div>
+#### <strong>Descarga:</strong> [plantilla_tesis.zip]({{ site.baseurl }}{% link /assets/files/plantilla_tesis.zip %}) &nbsp; ｜ &nbsp;  <strong>Ejemplo:</strong> [Tesis.pdf]({{ site.baseurl }}{% link /assets/files/Tesis.pdf %}){:target="_blank"}
+---
 
+<br>
 El archivo <mark class="archivo">Tesis.tex</mark> es el más importante, pues "incluye"
 los archivos .tex adicionales de cada capítulo (como veremos más adelante).
 
