@@ -10,8 +10,6 @@ date:   2021-04-21 09:09:00 -0600
 
 #### <strong>Descarga:</strong> [plantilla_tesis.zip]({{ site.baseurl }}{% link /assets/files/latex/plantilla_tesis.zip %}) &nbsp; ｜ &nbsp;  <strong>Ejemplo:</strong> [Tesis.pdf]({{ site.baseurl }}{% link /assets/files/latex/Tesis.pdf %}){:target="_blank"}
 
-<small>Última actualización: 21/abr/2021</small>
-
 ---
 
 <br>
