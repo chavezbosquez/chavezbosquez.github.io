@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Plantilla para tesis en LaTeX"
-date:   2021-04-21 09:09:00 -0600
+date:   2021-01-20 22:29:00 -0600
 categories: latex
 # Formato de tesis en LaTeX
 ---
@@ -10,7 +10,7 @@ categories: latex
 
 #### <strong>Descarga:</strong> [plantilla_tesis.zip]({{ site.baseurl }}{% link /assets/files/latex/plantilla_tesis.zip %}) &nbsp; ｜ &nbsp;  <strong>Ejemplo:</strong> [Tesis.pdf]({{ site.baseurl }}{% link /assets/files/latex/Tesis.pdf %}){:target="_blank"}
 
-<!-- <small>Última actualización: 21/abr/2021</small> -->
+<small>Última actualización: 21/abr/2021</small>
 
 ---
 
