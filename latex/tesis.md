@@ -1,8 +1,8 @@
 ---
-layout: page
-title:  Plantilla para tesis en LaTeX
-category: latex
-date:   2021-04-21 09:09:00 -0600
+layout   : page
+title    :  Plantilla para tesis en LaTeX
+categoria: latex
+date     : 2021-04-21 09:09:00 -0600
 # Formato de tesis en LaTeX
 ---
 
