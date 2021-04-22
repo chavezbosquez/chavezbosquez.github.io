@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Cursos
-#permalink: /about/
+layout   : page
+title    : Capacitación
+categoria: personal
+date     : 2021-04-21 13:30:00 -0600
+#  Capacitación recibida
 ---
 
 ## Cursos y talleres recibidos:
