@@ -34,5 +34,5 @@ date     : 2021-04-22 11:23:00 -0600
 
 | Sesión | Contenido | Fecha |
 | --- | --- | ---|
-| Día 1 | [Interfaces gráficas con Java Swing]({{ site.baseurl }}{% link /assets/files/java/java-1.pdf %}){:target="_blank"} | 17/abr/2021 |
-| Día 2 | [Aplicaciones de usuario _enriquecidas_]({{ site.baseurl }}{% link /assets/files/java/java-2.pdf %}){:target="_blank"} | 24/abr/2021 |
+| Día 1 | [Interfaces gráficas con Java Swing]({{ site.baseurl }}{% link /assets/files/java/java-dia1.pdf %}){:target="_blank"} | 17/abr/2021 |
+| Día 2 | [Aplicaciones de usuario _enriquecidas_]({{ site.baseurl }}{% link /assets/files/java/java-dia2.pdf %}){:target="_blank"} | 24/abr/2021 |
