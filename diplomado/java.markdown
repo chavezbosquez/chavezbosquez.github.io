@@ -6,6 +6,7 @@ date     : 2021-04-22 11:23:00 -0600
 # Diplomado Java
 ---
 
+<!--
 # Tarea 1: Contestar los siguientes tests en línea
 
 [Digital Learning SL: Test de Java y POO](https://www.digitallearning.es/tests/java-poo.html)
@@ -13,6 +14,7 @@ date     : 2021-04-22 11:23:00 -0600
 [Cibertest: Programación en Java Básico](https://cibertest.com/examen-online/1703/programacion-en-java-basico)
 
 [Daypo: Test de Java, nivel básico](https://www.daypo.com/java-basico.html)
+-->
 
 <!--
 # Lecturas recomendadas
@@ -26,12 +28,11 @@ date     : 2021-04-22 11:23:00 -0600
 [Microsoft OpenJDK](https://www.microsoft.com/openjdk)
 -->
 
----
 
-### Diapositivas del Día 1: [Diplomado Java - Día 1]({{ site.baseurl }}{% link /assets/files/java/java-1.pdf %})
+<!--### Diapositivas del Día 1: [Diplomado Java - Día 1]({{ site.baseurl }}{% link /assets/files/java/java-1.pdf %})-->
+### Diapositivas del Módulo: Java Standard Edition
 
-<!--
-| Plataforma | Curso | Fecha |
+| Sesión | Contenido | Fecha |
 | --- | --- | ---|
-| [Casa de Lletres](https://www.casadelletres.eu/redaccion_cientifica) | ¿Cómo escribir en inglés un artículo científico? | Julio 2019 |
--->
+| Día 1 | [Interfaces gráficas con Java Swing]({{ site.baseurl }}{% link /assets/files/java/java-1.pdf %}){:target="_blank"} | 17/abr/2021 |
+| Día 2 | [Aplicaciones de usuario _enriquecidas_]({{ site.baseurl }}{% link /assets/files/java/java-2.pdf %}){:target="_blank"} | 24/abr/2021 |
