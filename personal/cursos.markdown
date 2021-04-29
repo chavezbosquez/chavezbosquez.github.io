@@ -10,7 +10,8 @@ date     : 2021-04-21 13:30:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
-| [Udemy](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) | [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/certificate/UC-66829eb6-326c-441d-a5ea-2b76cf2596d2/) | 28/abr/2021 |
+| [Udemy](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) | [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/certificate/UC-66829eb6-326c-441d-a5ea-2b76cf2596d2/) | 28/abr/2021 |<!-- 34 h-->
+
 | **2020** | | |
 | [Udacity](https://www.udacity.com) | [Deep Learning Nanodegree](https://confirm.udacity.com/ZEJDPWTP) | 15/ago/2020 |
 | [Udemy](https://www.udemy.com) | [Curso completo de Machine Learning: Data Science en Python](https://www.udemy.com/certificate/UC-852c1c12-794e-4e5a-9747-c473a5260b3e/) | 08/ago/2020 |
