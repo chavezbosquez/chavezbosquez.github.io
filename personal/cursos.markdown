@@ -2,7 +2,7 @@
 layout   : page
 title    : Capacitación
 categoria: personal
-date     : 2021-04-21 13:30:00 -0600
+date     : 2021-04-29 09:10:00 -0600
 #  Capacitación recibida
 ---
 
@@ -10,7 +10,7 @@ date     : 2021-04-21 13:30:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
-| [Udemy](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) | [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/certificate/UC-66829eb6-326c-441d-a5ea-2b76cf2596d2/) | 28/abr/2021 |<!-- 34 h-->
+| [Udemy](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/){:target="_blank"} | [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/certificate/UC-66829eb6-326c-441d-a5ea-2b76cf2596d2/){:target="_blank"} | 28/abr/2021 |<!-- 34 h-->
 
 | **2020** | | |
 | [Udacity](https://www.udacity.com) | [Deep Learning Nanodegree](https://confirm.udacity.com/ZEJDPWTP) | 15/ago/2020 |
@@ -23,13 +23,12 @@ date     : 2021-04-21 13:30:00 -0600
 | **2019** | | |
 | UJAT | Entrenamiento para aplicaciones Android con Kotlin | 04/oct/2019 |
 | [MiríadaX](https://miriadax.net/web/general-navigation/cursos) | Creando Apps en Android. Aprende a programar aplicaciones móviles | 26/jun/2019 |
+| [Casa de Lletres](https://www.casadelletres.eu/redaccion_cientifica) | ¿Cómo escribir en inglés un artículo científico? | 06/abr/2019 |
 | [MiríadaX](https://miriadax.net/web/general-navigation/cursos) | Programación con JavaScript | 15/feb/2019 |
 | **2018** | | |
 | [EdX](https://www.edx.org) | [JS.0x: JavaScript Introduction](https://courses.edx.org/certificates/b5f20250bb564242a0beeb6ecccdeaa8) | 15/dic/2018 |
 | [SIA Software SA de CV](https://www.siasw.com/index.php/es/) | Desarrollo de Aplicaciones Distribuidas | 07/dic/2018 |
 | [EdX](https://www.edx.org) | [CSS.0x: CSS Basics](https://courses.edx.org/certificates/8250edd6fe354f8bb4835ef16f8dd6da) | 29/jul/2018 |
-
-<!--| [Casa de Lletres](https://www.casadelletres.eu/redaccion_cientifica) | ¿Cómo escribir en inglés un artículo científico? | Julio 2019 |-->
 
 <!--| UJAT | Desarrollo de Productos Innovadores Desing Thinking para Proyectos de Base Tecnológica | 18/nov/2020 |
 | [Udemy](https://www.udemy.com/course/machinelearningpython/)
