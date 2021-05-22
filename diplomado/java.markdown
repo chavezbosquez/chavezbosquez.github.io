@@ -2,7 +2,7 @@
 layout   : page
 title    : Diplomado 'Desarrollo de Software con Tecnología Java'
 categoria: java
-date     : 2021-05-08 01:24:00 -0600
+date     : 2021-05-22 08:03:00 -0600
 # Diplomado Java
 ---
 
@@ -37,4 +37,4 @@ date     : 2021-05-08 01:24:00 -0600
 | Día 1 | [Interfaces gráficas con Java Swing]({{ site.baseurl }}{% link /assets/files/java/java-dia1.pdf %}){:target="_blank"} | 17/abr/2021 |
 | Día 2 | [Aplicaciones de usuario _enriquecidas_]({{ site.baseurl }}{% link /assets/files/java/java-dia2.pdf %}){:target="_blank"} | 24/abr/2021 |
 | Día 3 | [Bases de datos]({{ site.baseurl }}{% link /assets/files/java/java-dia3.pdf %}){:target="_blank"} | 08/may/2021 |
-
+| Día 4 | [Aplicaciones CRUD]({{ site.baseurl }}{% link /assets/files/java/java-dia4.pdf %}){:target="_blank"} | 22/may/2021 |
