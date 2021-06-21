@@ -18,3 +18,9 @@ date     : 2021-06-15 22:11:00 -0600
 * [DBLP](https://dblp.org/pid/89/10879.html){:target="_blank"}
 * [ORCID](https://orcid.org/0000-0002-0324-9886){:target="_blank"}
 * [researchr](https://researchr.org/search/publication/oscar+ch%C3%A1vez-bosquez){:target="_blank"}
+
+<!-- 
+Páginas interesantes de investigación:
+https://github.com/PingoUPB/ResearchR
+https://researchr.org/profile/peterdmosses
+-->
