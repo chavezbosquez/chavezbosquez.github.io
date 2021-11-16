@@ -12,6 +12,7 @@ date     : 2021-05-20 14:43:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
+| [MéxicoX](https://mexicox.gob.mx){:target="_blank"} |  [Inteligencia artificial en la educación](https://mexicox.gob.mx/certificates/eaa47e84d5754469af883cf547b7492c) | 16/nov/2021 <!-- 5 h --> |
 | [FUN-MOOC](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/){:target="_blank"} |  Machine learning in Python with scikit-learn | 15/jul/2021 <!-- 35 h --> |
 | [openSAP](https://open.sap.com){:target="_blank"} | [Exploring the World of AI](https://open.sap.com/verify/ximaf-bybac-samoh-vecyt-bemor){:target="_blank"} | 14/may/2021 <!-- 9 h --> |
 | [Udemy](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/){:target="_blank"} | [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/certificate/UC-66829eb6-326c-441d-a5ea-2b76cf2596d2/){:target="_blank"} | 28/abr/2021 <!-- 34 h --> |
