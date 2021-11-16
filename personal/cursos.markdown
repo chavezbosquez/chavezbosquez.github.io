@@ -11,6 +11,8 @@ date     : 2021-05-20 14:43:00 -0600
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
 | [MéxicoX](https://mexicox.gob.mx){:target="_blank"} |  [Inteligencia artificial en la educación](https://mexicox.gob.mx/certificates/eaa47e84d5754469af883cf547b7492c){:target="_blank"} | 16/nov/2021 <!-- 5 h --> |
+| [openHPI](https://open.hpi.de/courses/cleanit2021){:target="_blank"} | clean-IT: Towards Sustainable Digital Technologies | 11/sep/2021 <!-- ? h --> |
+| [openSAP](https://open.sap.com){:target="_blank"} | [Getting Started with Data Science](https://open.sap.com/verify/xucal-nunom-lacat-zopeb-culaz){:target="_blank"} | 30/jul/2021 <!-- 24 h --> |
 | [FUN-MOOC](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/){:target="_blank"} |  Machine learning in Python with scikit-learn | 15/jul/2021 <!-- 35 h --> |
 | [openSAP](https://open.sap.com){:target="_blank"} | [Exploring the World of AI](https://open.sap.com/verify/ximaf-bybac-samoh-vecyt-bemor){:target="_blank"} | 14/may/2021 <!-- 9 h --> |
 | [Udemy](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/){:target="_blank"} | [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/certificate/UC-66829eb6-326c-441d-a5ea-2b76cf2596d2/){:target="_blank"} | 28/abr/2021 <!-- 34 h --> |
@@ -54,8 +56,8 @@ https://www.udemy.com/course/optimization-with-metaheuristics/
 
 | Plataforma | Nombre | Fecha |
 | --- | --- | ---|
-[Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado Técnico en Integridad Web](https://capacitateparaelempleo.org/verifica_diplomado/DZ3RZBI4L/){:target="_blank"} | 02/nov/2021 |
+| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado Técnico en Integridad Web](https://capacitateparaelempleo.org/verifica_diplomado/DZ3RZBI4L/){:target="_blank"} | 02/nov/2021 |
 | Microsoft | Microsoft Teams: Alternancia de dinámicas de enseñanza y aprendizaje para la educación híbrida y remota | 01/oct/2021 |
-[Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado Técnico en Sistemas Informáticos](https://capacitateparaelempleo.org/verifica_diplomado/WCRZ62J80/){:target="_blank"} | 12/jun/2020 |
-[Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado de Desarrollo de Estrategias Digitales de Aprendizaje](https://capacitateparaelempleo.org/verifica_diplomado/MXO83ZXUI/){:target="_blank"} | 29/dic/2020 |
+| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado Técnico en Sistemas Informáticos](https://capacitateparaelempleo.org/verifica_diplomado/WCRZ62J80/){:target="_blank"} | 12/jun/2020 |
+| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado de Desarrollo de Estrategias Digitales de Aprendizaje](https://capacitateparaelempleo.org/verifica_diplomado/MXO83ZXUI/){:target="_blank"} | 29/dic/2020 |
 | UJAT | Diseño de Materiales y Recursos para programas Educativos en Tecnologías de la Información | 17/may/2019 |
