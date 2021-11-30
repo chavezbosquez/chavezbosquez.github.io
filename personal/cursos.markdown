@@ -52,14 +52,16 @@ date     : 2021-11-25 00:24:00 -0600
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
 | [EdX](https://www.edx.org){:target="_blank"} | [HTML5 Part 2: Advanced Techniques for Designing HTML5 Apps](https://courses.edx.org/certificates/9f4bcf4123f843c2912adc97610b0675){:target="_blank"} | 29/mar/2017 |
+| UJAT | El Sorprendente Mundo de la Filosofía | 20/ene/2017 |
 
 ### 2016
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
 | [EdX](https://www.edx.org){:target="_blank"} | [HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://courses.edx.org/certificates/c20d75a9d1e648e9bf1561e7e3ad28aa){:target="_blank"} | 29/dic/2016 |
+| UJAT | Periodismo de Ciencia y Tecnología | 30/sep/2016 |
 | [EdX](https://www.edx.org){:target="_blank"} | [HTML5.0x: HTML5 Introduction ](https://courses.edx.org/certificates/4132ad1bde334e8fb93e5a9d4acf7860){:target="_blank"} | 08/sep/2016 |
-
+| CONACYT | Seminario: Repositorios Institucionales y su interoperabilidad con el Respositorio Nacional | 19/ago/2016 |
 
 ## Diplomados:
 
