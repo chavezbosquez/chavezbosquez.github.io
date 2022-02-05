@@ -6,7 +6,14 @@ date     : 2021-11-25 00:24:00 -0600
 # Capacitación recibida
 ---
 
-## Cursos y talleres 2021:
+## Cursos y talleres 2022:
+
+| Plataforma | Curso | Fecha |
+| --- | --- | ---|
+| [Udemy](https://www.udemy.com/course/math-with-python/){:target="_blank"} | [Master Math by Coding in Python](https://www.udemy.com/certificate/UC-d1f4c6ea-44e4-4343-a57f-8f8fbb49c832/){:target="_blank"} | 04/feb/2022 <!-- 37 h --> |
+
+
+# 2021:
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
