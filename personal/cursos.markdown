@@ -10,14 +10,14 @@ date     : 2021-11-25 00:24:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
+| [AI Campus](https://learn.ki-campus.org){:target="_blank"} | [Applied Edge AI: Deep Learning Outside of the Cloud](https://learn.ki-campus.org/verify/ximat-pozid-hatuz-bygap-vocak){:target="_blank"} | 24/feb/2022 <!-- 36 h --> |
 | [Udemy](https://www.udemy.com/course/math-with-python/){:target="_blank"} | [Master Math by Coding in Python](https://www.udemy.com/certificate/UC-d1f4c6ea-44e4-4343-a57f-8f8fbb49c832/){:target="_blank"} | 04/feb/2022 <!-- 37 h --> |
-
 
 # 2021:
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
-| [FutureLearn](https://www.futurelearn.com/){:target="_blank"} | [Digital Skills: Artificial Intelligence](https://www.futurelearn.com/certificates/4y3i0w5){:target="_blank"} | 11/dic/2021 |
+| [FutureLearn](https://www.futurelearn.com/){:target="_blank"} | [Digital Skills: Artificial Intelligence](https://www.futurelearn.com/certificates/4y3i0w5){:target="_blank"} | 11/dic/2021 <!-- ? h --> |
 | [MéxicoX](https://mexicox.gob.mx){:target="_blank"} |  [Inteligencia artificial en la educación](https://mexicox.gob.mx/certificates/eaa47e84d5754469af883cf547b7492c){:target="_blank"} | 16/nov/2021 <!-- 5 h --> |
 | [openHPI](https://open.hpi.de/courses/cleanit2021){:target="_blank"} | clean-IT: Towards Sustainable Digital Technologies | 11/sep/2021 <!-- ? h --> |
 | [openSAP](https://open.sap.com){:target="_blank"} | [Getting Started with Data Science](https://open.sap.com/verify/xucal-nunom-lacat-zopeb-culaz){:target="_blank"} | 30/jul/2021 <!-- 24 h --> |
