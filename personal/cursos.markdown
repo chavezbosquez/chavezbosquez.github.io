@@ -10,7 +10,8 @@ date     : 2021-11-25 00:24:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
-| [AI Campus](https://learn.ki-campus.org){:target="_blank"} | [Applied Edge AI: Deep Learning Outside of the Cloud](https://learn.ki-campus.org/verify/ximat-pozid-hatuz-bygap-vocak){:target="_blank"} | 24/feb/2022 <!-- 36 h --> |
+| [Great Learning](https://www.mygreatlearning.com){:target="_blank"} | [Deep Learning with Python](https://olympus1.mygreatlearning.com/course_certificate/SWEYZJKA){:target="_blank"} | 24/abr/2022 <!-- 8 h --> |
+| [AI Campus](https://learn.ki-campus.org){:target="_blank"} | [Applied Edge AI: Deep Learning Outside of the Cloud](https://learn.ki-campus.org/verify/ximat-pozid-hatuz-bygap-vocak){:target="_blank"} | 24/feb/2022 <!-- 6 sem 6-8 h --> |
 | [Udemy](https://www.udemy.com/course/math-with-python/){:target="_blank"} | [Master Math by Coding in Python](https://www.udemy.com/certificate/UC-d1f4c6ea-44e4-4343-a57f-8f8fbb49c832/){:target="_blank"} | 04/feb/2022 <!-- 37 h --> |
 
 # 2021:
