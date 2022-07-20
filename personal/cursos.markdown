@@ -10,6 +10,7 @@ date     : 2021-11-25 00:24:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
+| [ELAP 2022](https://isg-uah.github.io/elap2022/){:target="_blank"} | [Aprendizaje profundo para procesamiento de imagen](https://github.com/ISG-UAH/elap2022/blob/main/diplomas/156_ELAP2022.pdf){:target="_blank"} | 08/jul/2022 <!-- 15 h --> |
 | [NVIDIA](https://www.nvidia.com/en-us/training/){:target="_blank"} | [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/50264cc4a49144ce890fa0df8049fb5b/){:target="_blank"} | 11/may/2022 <!-- 8 h --> |
 | [Great Learning](https://www.mygreatlearning.com){:target="_blank"} | [Deep Learning with Python](https://olympus1.mygreatlearning.com/course_certificate/SWEYZJKA){:target="_blank"} | 23/abr/2022 <!-- 8 h --> |
 | [AI Campus](https://learn.ki-campus.org){:target="_blank"} | [Applied Edge AI: Deep Learning Outside of the Cloud](https://learn.ki-campus.org/verify/ximat-pozid-hatuz-bygap-vocak){:target="_blank"} | 24/feb/2022 <!-- 6 sem 6-8 h --> |
