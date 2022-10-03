@@ -33,6 +33,7 @@ github_username:  chavezbosquez
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from # OCB: redireccionamiento a una página externa
 
 # Exclude from processing.
 # The following items will not be processed, by default.
