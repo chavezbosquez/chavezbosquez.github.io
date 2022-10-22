@@ -24,4 +24,5 @@ También descarguen el instalador de Android Studio que utilizaremos a partir de
 
 | Sesión | Contenido | Fecha |
 | --- | --- | ---|
-| Día 1 | [Introducción a la programación en Android]({{ site.baseurl }}{% link /assets/files/android/Java-en-Android-d1.pdf %}){:target="_blank"} | 29/may/2021 |
+| Día 1 | [Introducción a la programación en Android]({{ site.baseurl }}{% link /assets/files/android/Java-en-Android-d1.pdf %}){:target="_blank"} | 15/oct/2022 |
+| Día 2 | [Android Studio]({{ site.baseurl }}{% link /assets/files/android/Java-en-Android-d2.pdf %}){:target="_blank"} | 22/oct/2022 |
