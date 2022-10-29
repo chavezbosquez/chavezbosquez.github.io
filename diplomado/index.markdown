@@ -2,7 +2,7 @@
 layout   : page
 title    : Java en Android
 categoria: java
-date     : 2022-10-12 12:00:00 -0600
+date     : 2022-10-29 08:00:00 -0600
 # Diplomado Java en Android
 ---
 
