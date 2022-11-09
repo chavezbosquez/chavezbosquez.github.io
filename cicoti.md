@@ -1,7 +1,8 @@
 ---
 permalink: /cicoti
 title: CICOTI 2022
-#redirect_to: https://forms.gle/bVVujMi4FzHm2TVi7
+categoria: java
+date     : 2022-11-08 08:00:00 -0600
 # CICOTI 2022
 ---
 
@@ -9,4 +10,4 @@ title: CICOTI 2022
 
 | Contenido | Fecha |
 | --- | --- | ---|
-| [Desarrollo rápido de aplicaciones para Android]({{ site.baseurl }}{% link /assets/files/android/CICOTI-2022.pdf %}){:target="_blank"} | 15/oct/2022 |
+| [Desarrollo rápido de aplicaciones para Android]({{ site.baseurl }}{% link /assets/files/android/CICOTI-2022.pdf %}){:target="_blank"} | 08/nov/2022 |
