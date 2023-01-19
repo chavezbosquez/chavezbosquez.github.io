@@ -2,7 +2,7 @@
 layout   : page
 title    : Capacitación
 categoria: personal
-date     : 2021-11-25 00:24:00 -0600
+date     : 2023-01-10 15:52:00 -0600
 # Capacitación
 ---
 
@@ -10,6 +10,8 @@ date     : 2021-11-25 00:24:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
+| [Udemy](https://www.udemy.com/course/deeplearning/){:target="_blank"} | [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/certificate/UC-62ef14dd-6819-47e2-88cd-de1cf149a491/){:target="_blank"} | 27/dic/2022 <!-- 22.5 h --> |
+| UJAT | Python aplicado en las Matemáticas | 01/dic/2022 <!-- 40 h --> |
 | [ELAP 2022](https://isg-uah.github.io/elap2022/){:target="_blank"} | [Aprendizaje profundo para procesamiento de imagen](https://github.com/ISG-UAH/elap2022/blob/main/diplomas/156_ELAP2022.pdf){:target="_blank"} | 08/jul/2022 <!-- 15 h --> |
 | [NVIDIA](https://www.nvidia.com/en-us/training/){:target="_blank"} | [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/50264cc4a49144ce890fa0df8049fb5b/){:target="_blank"} | 11/may/2022 <!-- 8 h --> |
 | [Great Learning](https://www.mygreatlearning.com){:target="_blank"} | [Deep Learning with Python](https://olympus1.mygreatlearning.com/course_certificate/SWEYZJKA){:target="_blank"} | 23/abr/2022 <!-- 8 h --> |
