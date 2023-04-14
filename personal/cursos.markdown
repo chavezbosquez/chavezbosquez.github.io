@@ -6,7 +6,15 @@ date     : 2023-01-10 15:52:00 -0600
 # Capacitación
 ---
 
-## Cursos y talleres 2022:
+## Cursos y talleres 2023:
+
+| Plataforma | Curso | Fecha |
+| --- | --- | ---|
+| [OpenCV](https://opencv.org/course-opencv-for-beginners/){:target="_blank"} | [OpenCV for Beginners](https://courses.opencv.org/certificates/ba58915597f444828aacc0acabab8a04){:target="_blank"} | 12/abr/2023 <!-- 30h --> |
+
+
+
+## 2022:
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
