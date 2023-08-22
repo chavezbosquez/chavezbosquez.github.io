@@ -88,8 +88,8 @@ date     : 2023-01-10 15:52:00 -0600
 
 | Plataforma | Nombre | Fecha |
 | --- | --- | ---|
-| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado Técnico en Integridad Web](https://capacitateparaelempleo.org/verifica_diplomado/DZ3RZBI4L/){:target="_blank"} | 02/nov/2021 |
+| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado Técnico en Integridad Web](https://capacitateparaelempleo.org/verifica/3b6ba410-4de3-4cb1-b564-52c7cb3ed4d0/c15c495a-b51b-44ce-a6a1-7efb10bf3ebb){:target="_blank"} | 02/nov/2021 |
 | Microsoft | Microsoft Teams: Alternancia de dinámicas de enseñanza y aprendizaje para la educación híbrida y remota | 01/oct/2021 |
-| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado Técnico en Sistemas Informáticos](https://capacitateparaelempleo.org/verifica_diplomado/WCRZ62J80/){:target="_blank"} | 12/jun/2020 |
-| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado de Desarrollo de Estrategias Digitales de Aprendizaje](https://capacitateparaelempleo.org/verifica_diplomado/MXO83ZXUI/){:target="_blank"} | 29/dic/2020 |
+| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado Técnico en Sistemas Informáticos](https://capacitateparaelempleo.org/verifica/3b6ba410-4de3-4cb1-b564-52c7cb3ed4d0/9187ccf6-40d2-4eff-b401-34edbc7d3fac){:target="_blank"} | 12/jun/2020 |
+| [Aprende.org](https://aprende.org){:target="_blank"} | [Diplomado de Desarrollo de Estrategias Digitales de Aprendizaje](https://capacitateparaelempleo.org/verifica/3b6ba410-4de3-4cb1-b564-52c7cb3ed4d0/a17671ec-d48c-4e24-b9cc-e9418cfd512a){:target="_blank"} | 29/dic/2020 |
 | UJAT | Diseño de Materiales y Recursos para programas Educativos en Tecnologías de la Información | 17/may/2019 |
