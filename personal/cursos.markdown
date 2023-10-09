@@ -10,6 +10,7 @@ date     : 2023-01-10 15:52:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
+| [Kaglle](https://www.kaggle.com/learn/pandas){:target="_blank"} | [Pandas](https://www.kaggle.com/learn/certification/chavezbosquez/pandas){:target="_blank"} | 15/sep/2023 <!-- 4h --> |
 | [OpenCV](https://opencv.org/course-opencv-for-beginners/){:target="_blank"} | [OpenCV for Beginners](https://courses.opencv.org/certificates/ba58915597f444828aacc0acabab8a04){:target="_blank"} | 12/abr/2023 <!-- 30h --> |
 
 
