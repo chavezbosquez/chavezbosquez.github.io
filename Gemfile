@@ -33,3 +33,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # OCB: redireccionamiento a una página externa
 gem 'jekyll-redirect-from'
+gem "webrick", "~> 1.8"

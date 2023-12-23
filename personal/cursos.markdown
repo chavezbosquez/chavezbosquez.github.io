@@ -6,16 +6,16 @@ date     : 2023-01-10 15:52:00 -0600
 # Capacitación
 ---
 
-## Cursos y talleres 2023:
+## Cursos y talleres 2023
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
-| [Kaglle](https://www.kaggle.com/learn/pandas){:target="_blank"} | [Pandas](https://www.kaggle.com/learn/certification/chavezbosquez/pandas){:target="_blank"} | 15/sep/2023 <!-- 4h --> |
+| [Google Skillshop](https://skillshop.exceedlms.com/student/collection/798207-apps){:target="_blank"} | [Curso de Desarrollo de Apps Móviles](https://skillshop.exceedlms.com/student/award/Pt9VBN1DpyQqLLTZXNMPFGb7){:target="_blank"} | 12/dic/2023 <!-- 40h --> |
+| [Analytics Vidhya](https://courses.analyticsvidhya.com/courses/Machine-Learning-Certification-Course-for-Beginners){:target="_blank"} | [Machine Learning Certification Course for Beginners](https://courses.analyticsvidhya.com/certificates/ux8zmuccr6){:target="_blank"} | 23/nov/2023 <!-- 80h --> |
+| [Kaggle](https://www.kaggle.com/learn/pandas){:target="_blank"} | [Pandas](https://www.kaggle.com/learn/certification/chavezbosquez/pandas){:target="_blank"} | 15/sep/2023 <!-- 4h --> |
 | [OpenCV](https://opencv.org/course-opencv-for-beginners/){:target="_blank"} | [OpenCV for Beginners](https://courses.opencv.org/certificates/ba58915597f444828aacc0acabab8a04){:target="_blank"} | 12/abr/2023 <!-- 30h --> |
 
-
-
-## 2022:
+### 2022
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
@@ -27,7 +27,7 @@ date     : 2023-01-10 15:52:00 -0600
 | [AI Campus](https://learn.ki-campus.org){:target="_blank"} | [Applied Edge AI: Deep Learning Outside of the Cloud](https://learn.ki-campus.org/verify/ximat-pozid-hatuz-bygap-vocak){:target="_blank"} | 24/feb/2022 <!-- 6 sem 6-8 h --> |
 | [Udemy](https://www.udemy.com/course/math-with-python/){:target="_blank"} | [Master Math by Coding in Python](https://www.udemy.com/certificate/UC-d1f4c6ea-44e4-4343-a57f-8f8fbb49c832/){:target="_blank"} | 04/feb/2022 <!-- 37 h --> |
 
-# 2021:
+### 2021
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
@@ -85,7 +85,7 @@ date     : 2023-01-10 15:52:00 -0600
 | [EdX](https://www.edx.org){:target="_blank"} | [HTML5.0x: HTML5 Introduction ](https://courses.edx.org/certificates/4132ad1bde334e8fb93e5a9d4acf7860){:target="_blank"} | 08/sep/2016 |
 | CONACYT | Seminario: Repositorios Institucionales y su interoperabilidad con el Respositorio Nacional | 19/ago/2016 |
 
-## Diplomados:
+## Diplomados
 
 | Plataforma | Nombre | Fecha |
 | --- | --- | ---|
