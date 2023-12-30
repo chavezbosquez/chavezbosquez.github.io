@@ -10,6 +10,7 @@ date     : 2023-01-10 15:52:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
+| [Udemy](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/){:target="_blank"} | [The Data Science Course: Complete Data Science Bootcamp 2023](https://www.udemy.com/certificate/UC-ae3feed7-6e5c-46b1-b2c1-5477de378c48/){:target="_blank"} | 30/dic/2023 | <!-- 32 h -->
 | [Google Skillshop](https://skillshop.exceedlms.com/student/collection/798207-apps){:target="_blank"} | [Curso de Desarrollo de Apps Móviles](https://skillshop.exceedlms.com/student/award/Pt9VBN1DpyQqLLTZXNMPFGb7){:target="_blank"} | 12/dic/2023 <!-- 40h --> |
 | [Analytics Vidhya](https://courses.analyticsvidhya.com/courses/Machine-Learning-Certification-Course-for-Beginners){:target="_blank"} | [Machine Learning Certification Course for Beginners](https://courses.analyticsvidhya.com/certificates/ux8zmuccr6){:target="_blank"} | 23/nov/2023 <!-- 80h --> |
 | [Kaggle](https://www.kaggle.com/learn/pandas){:target="_blank"} | [Pandas](https://www.kaggle.com/learn/certification/chavezbosquez/pandas){:target="_blank"} | 15/sep/2023 <!-- 4h --> |
@@ -82,7 +83,7 @@ date     : 2023-01-10 15:52:00 -0600
 | --- | --- | ---|
 | [EdX](https://www.edx.org){:target="_blank"} | [HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://courses.edx.org/certificates/c20d75a9d1e648e9bf1561e7e3ad28aa){:target="_blank"} | 29/dic/2016 |
 | UJAT | Periodismo de Ciencia y Tecnología | 30/sep/2016 |
-| [EdX](https://www.edx.org){:target="_blank"} | [HTML5.0x: HTML5 Introduction ](https://courses.edx.org/certificates/4132ad1bde334e8fb93e5a9d4acf7860){:target="_blank"} | 08/sep/2016 |
+| [EdX](https://www.edx.org){:target="_blank"} | [HTML5.0x: HTML5 Introduction](https://courses.edx.org/certificates/4132ad1bde334e8fb93e5a9d4acf7860){:target="_blank"} | 08/sep/2016 |
 | CONACYT | Seminario: Repositorios Institucionales y su interoperabilidad con el Respositorio Nacional | 19/ago/2016 |
 
 ## Diplomados
