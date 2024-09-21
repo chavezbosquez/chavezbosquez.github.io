@@ -10,10 +10,20 @@ date     : 2023-01-10 15:52:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
+
+
+
+
+| [Santander Open Academy](https://www.santanderopenacademy.com/es/courses/iot.html){:target="_blank"} | Internet de las Cosas | 03/sep/2024 |  <!-- 8h -->
+
+
+| [Santander Open Academy](https://www.santanderopenacademy.com/es/courses/introduction-to-data-science.html){:target="_blank"} | Introducción a la Ciencia de Datos | 27/ago/2024 |  <!-- 6h -->
+
+
+| [Santander Open Academy](https://www.santanderopenacademy.com/es/courses/google-artificial-intelligence-and-productivity.html){:target="_blank"} | Google: Inteligencia Artificial y productividad | 21/ago/2024 |  <!-- 8h -->
 | [Académica.mx](https://academica.mx/course/view.php?id=2114){:target="_blank"} | [Herramientas TRIC Competencia digital en la educación actual](https://academica.mx/mod/customcert/verify_certificate.php?contextid=2555593&code=XUsBQ2rBVZ&qrcode=1){:target="_blank"} | 15/ago/2024 | <!-- 25h -->
 | [MiriadaX](https://cursos.miriadax.net/course/view.php?id=1493){:target="_blank"} | [Introducción a la visión por computador y el procesado de imagen](https://cursos.miriadax.net/mod/customcert/verify_certificate.php?contextid=612430&code=CL8JWXaIfK&qrcode=1){:target="_blank"} | 02/jun/2024 | <!-- h -->
-| [](){:target="_blank"} | [Master Python programming by solving scientific projects](https://www.udemy.com/certificate/UC-c890f3c2-0739-4c62-8624-3ba655e39a0c/){:target="_blank"} | 19/mar/2024 | <!-- 37h -->
-<!-- | [](){:target="_blank"} | [](){:target="_blank"} | |  h -->
+| [Udemy](https://www.udemy.com/course/python-scientific-x/){:target="_blank"} | [Master Python programming by solving scientific projects](https://www.udemy.com/certificate/UC-c890f3c2-0739-4c62-8624-3ba655e39a0c/){:target="_blank"} | 19/mar/2024 | <!-- 37h -->
 
 
 ## Cursos y talleres 2023
