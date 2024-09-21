@@ -6,11 +6,21 @@ date     : 2023-01-10 15:52:00 -0600
 # Capacitación
 ---
 
+## Cursos y talleres 2024
+
+| Plataforma | Curso | Fecha |
+| --- | --- | ---|
+| [Académica.mx](https://academica.mx/course/view.php?id=2114){:target="_blank"} | [Herramientas TRIC Competencia digital en la educación actual](https://academica.mx/mod/customcert/verify_certificate.php?contextid=2555593&code=XUsBQ2rBVZ&qrcode=1){:target="_blank"} | 15/ago/2024 | <!-- 25h -->
+| [MiriadaX](https://cursos.miriadax.net/course/view.php?id=1493){:target="_blank"} | [Introducción a la visión por computador y el procesado de imagen](https://cursos.miriadax.net/mod/customcert/verify_certificate.php?contextid=612430&code=CL8JWXaIfK&qrcode=1){:target="_blank"} | 02/jun/2024 | <!-- h -->
+| [](){:target="_blank"} | [Master Python programming by solving scientific projects](https://www.udemy.com/certificate/UC-c890f3c2-0739-4c62-8624-3ba655e39a0c/){:target="_blank"} | 19/mar/2024 | <!-- 37h -->
+<!-- | [](){:target="_blank"} | [](){:target="_blank"} | |  h -->
+
+
 ## Cursos y talleres 2023
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
-| [Udemy](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/){:target="_blank"} | [The Data Science Course: Complete Data Science Bootcamp 2023](https://www.udemy.com/certificate/UC-ae3feed7-6e5c-46b1-b2c1-5477de378c48/){:target="_blank"} | 30/dic/2023 | <!-- 32 h -->
+| [Udemy](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/){:target="_blank"} | [The Data Science Course: Complete Data Science Bootcamp 2023](https://www.udemy.com/certificate/UC-ae3feed7-6e5c-46b1-b2c1-5477de378c48/){:target="_blank"} | 30/dic/2023 | <!-- 32h -->
 | [Google Skillshop](https://skillshop.exceedlms.com/student/collection/798207-apps){:target="_blank"} | [Curso de Desarrollo de Apps Móviles](https://skillshop.exceedlms.com/student/award/Pt9VBN1DpyQqLLTZXNMPFGb7){:target="_blank"} | 12/dic/2023 <!-- 40h --> |
 | [Analytics Vidhya](https://courses.analyticsvidhya.com/courses/Machine-Learning-Certification-Course-for-Beginners){:target="_blank"} | [Machine Learning Certification Course for Beginners](https://courses.analyticsvidhya.com/certificates/ux8zmuccr6){:target="_blank"} | 23/nov/2023 <!-- 80h --> |
 | [Kaggle](https://www.kaggle.com/learn/pandas){:target="_blank"} | [Pandas](https://www.kaggle.com/learn/certification/chavezbosquez/pandas){:target="_blank"} | 15/sep/2023 <!-- 4h --> |
