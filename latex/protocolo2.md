@@ -61,11 +61,12 @@ Hemos creado una serie de comandos para definir los elementos que aparecerán en
 
 Importante:
 
-* En caso de que no tengas codirector entonces deberán editar el archivo (<mark class="archivo">Caratula.tex</mark>) y eliminar esta sección (en ambas páginas):
+* En caso de que no tengas codirector entonces deberán editar el archivo (<mark class="archivo">Caratula.tex</mark>) y comentar (o eliminar) esta sección (en ambas páginas):
 
 ~~~latex
-\vspace{1cm}
+\vfill
 EN CODIRECCIÓN:
+
 {\large\bfseries\MakeUppercase\Codirector}
 ~~~
 
