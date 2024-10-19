@@ -14,7 +14,7 @@ date     : 2024-09-21 15:00:00 -0600
 
 <br>
 
-La nueva plantilla para la redacción de tu protocolo (<mark class="archivo">Protocolo.tex</mark>) se basa en los [Lineamientos para la elaboración de la tesis de licenciatura, especialidad, maestría y doctorado](https://gacetajuchiman.ujat.mx/wp-content/uploads/2024/03/anexo-108.pdf){:target="_blank"} de la UJAT, los cuales a su vez siguen la norma APA en su versión 7: <https://normas-apa.org>.
+La nueva plantilla para la redacción de tu protocolo (<mark class="archivo">Protocolo.tex</mark>) se basa en los [Lineamientos para la elaboración de la tesis de licenciatura, especialidad, maestría y doctorado](https://gacetajuchiman.ujat.mx/wp-content/uploads/2024/03/anexo-108.pdf){:target="_blank"} de la UJAT, los cuales a su vez siguen la norma APA en su versión 7: <https://normas-apa.org>{:target="_blank"}.
 
 
 ## 1.  Preámbulo
@@ -67,7 +67,7 @@ Importante:
 \vfill
 EN CODIRECCIÓN:
 
-{\large\bfseries\MakeUppercase\Codirector}
+{\bfseries\MakeUppercase\Codirector}
 ~~~
 
 * Si tienes más de 3 revisores en tu tesis (los cuales se convierten en vocales durante tu examen profesional) entonces deberás agregar nuevos profesores en la sección correspondiente con `{\large\bfseries\MakeUppercase\RevisorD}\\`, `{\large\bfseries\MakeUppercase\RevisorE}\\` y así sucesivamente.<br>
@@ -140,7 +140,7 @@ En este caso la referencia es:
 
 Una desventaja de usar el formato APA para las referencias es que es incompatible con BibTeX, el estándar de LaTeX para el manejo de referencias. Entonces tenemos que usar <code>biber</code>, que es un paquete adicional que deberán instalar en su equipo.
 
-Otro detalle surge al momento de compilar en cualquier IDE, ya que por default intentará compilar las referencias usando BibTeX. Deberás configurar tu IDE para que las referencias las compile con biber en lugar de BibTeX de acuerdo a las instrucciones mostradas en https://texwelt.de/fragen/1909/wie-verwende-ich-biber-in-meinem-editor (la página está en Alemán pero las imágenes son muy descriptivas).
+Otro detalle surge al momento de compilar en cualquier IDE, ya que por default intentará compilar las referencias usando BibTeX. Deberás configurar tu IDE para que las referencias las compile con biber en lugar de BibTeX de acuerdo a las instrucciones mostradas en <https://texwelt.de/fragen/1909/wie-verwende-ich-biber-in-meinem-editor>{:target="_blank"} (la página está en Alemán pero las imágenes son muy descriptivas).
 
 En caso que utilices TeXstudio, el cual es el IDE que vimos en el taller de LaTeX, debes cambiar la siguiente configuración:
 
