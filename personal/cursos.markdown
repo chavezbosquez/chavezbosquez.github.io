@@ -6,6 +6,14 @@ date     : 2024-12-10 17:09:00 -0600
 # Capacitación
 ---
 
+
+## Cursos y talleres 2025
+
+| Plataforma | Curso | Fecha |
+| --- | --- | ---|
+| [Capacítate para el empleo](https://capacitateparaelempleo.org/cursos/view/133){:target="_blank"} | [Desarrollador de interfaces gráficas](https://capacitateparaelempleo.org/verifica/3b6ba410-4de3-4cb1-b564-52c7cb3ed4d0/7f9b5be5-8361-4890-8f6e-e20d5c32709a){:target="_blank"} | 20/ene/25 <!-- 72h --> |
+
+
 ## Cursos y talleres 2024
 
 | Plataforma | Curso | Fecha |
