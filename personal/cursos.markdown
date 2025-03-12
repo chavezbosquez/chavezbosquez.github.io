@@ -11,8 +11,6 @@ date     : 2024-12-10 17:09:00 -0600
 
 | Plataforma | Curso | Fecha |
 | --- | --- | ---|
-
-
 | [MéxicoX](https://mexicox.gob.mx){:target="_blank"} |  [Introducción al uso y representación de información geoespacial](https://mexicox.gob.mx/certificates/d1eb27aa1f8f40979c0e06752be2e77b){:target="_blank"} | 12/mar/2025 <!-- 30 h --> |
 | [Capacítate para el empleo](https://capacitateparaelempleo.org/cursos/view/133){:target="_blank"} | [Desarrollador de interfaces gráficas](https://capacitateparaelempleo.org/verifica/3b6ba410-4de3-4cb1-b564-52c7cb3ed4d0/7f9b5be5-8361-4890-8f6e-e20d5c32709a){:target="_blank"} | 20/ene/25 <!-- 72h --> |
 
